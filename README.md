@@ -13,7 +13,7 @@ The dataset shown here is purely synthetic (refer to the **behind-the-scenes** f
 
 ## **Background**
 
-Using methods for random generation, the dataset has simulated responses for:
+Using methods for random generation, the dataset has simulated responses for health wellness:
 - Mental Health
 - Physical Health
 - Social Health
